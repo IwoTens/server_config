@@ -31,7 +31,7 @@ jobmanager.rpc.port: 6123
 
 jobmanager.heap.mb: 256
 
-taskmanager.heap.mb: 512
+taskmanager.heap.mb: 28000
 
 taskmanager.numberOfTaskSlots: 8
 
